@@ -1,0 +1,20 @@
+# WordPress core
+wp-admin/
+wp-includes/
+
+# WordPress uploads
+wp-content/uploads/
+
+# WordPress plugins (optional — comment out if custom)
+wp-content/plugins/
+
+# WordPress config
+wp-config.php
+
+# OS / Editor junk
+.DS_Store
+.vscode/
+node_modules/
+
+# Logs
+*.log
