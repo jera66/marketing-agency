@@ -23,6 +23,7 @@ To showcase a real-world marketing agency website built as a **custom WordPress 
 ---
 
 ## 🧱 Project Structure
+```
 marketingagency/
 ├── assets/
 │   ├── css/
@@ -46,7 +47,7 @@ marketingagency/
 ├── index.php
 ├── functions.php
 └── style.css
-
+```
 
 
 ---
