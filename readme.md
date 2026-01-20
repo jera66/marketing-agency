@@ -115,9 +115,6 @@ This theme is production-ready and can be deployed to:
 **Jerathel Czerny**  
 Front End / WordPress Developer  
 
-- Portfolio: *(add link)*
-- GitHub: *(add link)*
-- LinkedIn: *(add link)*
 
 ---
 
