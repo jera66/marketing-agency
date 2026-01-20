@@ -23,30 +23,30 @@ To showcase a real-world marketing agency website built as a **custom WordPress 
 ---
 
 ## 🧱 Project Structure
-
 marketingagency/
 ├── assets/
-│ ├── css/ # Compiled and modular stylesheets
-│ ├── js/ # Theme-specific JavaScript
-│ └── images/ # Theme images and graphics
+│   ├── css/
+│   ├── js/
+│   └── images/
 │
 ├── template-parts/
-│ ├── hero.php
-│ ├── card-service.php
-│ ├── card-case-study.php
-│ └── footer-cta.php
+│   ├── hero.php
+│   ├── card-service.php
+│   ├── card-case-study.php
+│   └── footer-cta.php
 │
 ├── inc/
-│ ├── enqueue.php # Scripts & styles loading
-│ ├── custom-post-types.php
-│ └── custom-fields.php
+│   ├── enqueue.php
+│   ├── custom-post-types.php
+│   └── custom-fields.php
 │
-├── front-page.php # Homepage layout
-├── page-services.php # Services page template
-├── single-case-study.php # Case study single view
-├── index.php # Fallback template
-├── functions.php # Theme bootstrap
-└── style.css # Theme metadata + base styles
+├── front-page.php
+├── page-services.php
+├── single-case-study.php
+├── index.php
+├── functions.php
+└── style.css
+
 
 
 ---
